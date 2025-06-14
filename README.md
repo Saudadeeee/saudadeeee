@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=CTF+Player;Web+Pentest+%7C+IoT+Security+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=CTF+Player+%7C+Web+Exploitation;Web+Pentest+%7C+Red+Teaming" />
 </p>
 
 ---
@@ -11,10 +11,9 @@
 ## 🕷️ About Me  
 - 🎓 I’m currently studying **Smart Embedded Systems and IoT** at **Hanoi University of Science & Technology (HUST)**.  
 - 🔐 Passionate about **Cybersecurity**, especially **Web Application Penetration Testing**.  
-- 🧠 Interested in exploring topics like **IoT Security**, **Offensive Security**, and **Capture The Flag (CTF)** challenges.  
+- 🧠 Interested in exploring topics like  **Offensive Security**, and **Capture The Flag (CTF)** challenges.  
 - 🛠️ Constantly experimenting and building new projects to sharpen my skills.  
-- ✍ I plan to write **CTF Writeups** and contribute to the **Cybersec Community** in the near future.  
-
+- ✍ I plan to write **CTF Writeups** and making lab about **Web Vulnerable** in the near future.  
 ---
 
 ## 📊 GitHub Stats  
