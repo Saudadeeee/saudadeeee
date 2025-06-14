@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=CTF+Player+%7C+Security+Enthusiast;Web+Pentest+%7C+IoT+Security+Learner;Always+Learning+and+Building+Cool+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=CTF+Player;Web+Pentest+%7C+IoT+Security+Learner" />
 </p>
 
 ---
