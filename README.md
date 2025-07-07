@@ -8,7 +8,7 @@
 
 ---
 
-## 🕷 About Me  
+## 😶‍🌫️ About Me  
 - 🎓 I’m currently studying **Smart Embedded Systems and IoT** at **Hanoi University of Science & Technology (HUST)**.  
 - 🔐 Passionate about **Cybersecurity**, especially **Web Application Penetration Testing**.  
 - 🧠 Interested in exploring topics like  **Offensive Security**, and **Capture The Flag (CTF)** challenges.  
