@@ -28,4 +28,6 @@
 ---
 
 ## 🔗 Connect with me  
-- 🌐 GitHub: [github.com/Saudadeeee](https://github.com/Saudadeeee)
+- GitHub: [github.com/Saudadeeee](https://github.com/Saudadeeee)
+- Facebook:[facebook.com/nankhanhhh](https://www.facebook.com/nankhanhhh)
+- Linkedin:
