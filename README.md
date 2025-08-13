@@ -24,12 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saudadeeee&layout=compact&theme=radical&hide=html,css,scss" />
 </p>
 
----
-
-## 🔗 Connect with me  
-- GitHub: [github.com/Saudadeeee](https://github.com/Saudadeeee)
-- Facebook:[facebook.com/nankhanhhh](https://www.facebook.com/nankhanhhh)
-- Linkedin:
 
 ---
 
