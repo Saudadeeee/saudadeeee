@@ -42,7 +42,6 @@
 ### Security & Penetration Testing Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-0078D4?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -51,20 +50,17 @@
 
 ### Development Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vim" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vim" />
 </p>
 
 ### Operating Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
-  <img src="https://img.shields.io/badge/-Parrot%20OS-00D4AA?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
 </p>
 
 ---
 
 ## 📈 CTF & Security Focus Areas
 - 🌐 **Web Application Security**: SQL Injection, XSS, CSRF, Authentication Bypass
-- 🔍 **Reconnaissance & OSINT**: Information gathering and enumeration
-- 🛡️ **Vulnerability Assessment**: Web app scanning and analysis  
 - 🎯 **Exploit Development**: Custom payload creation and testing
-- 🏁 **CTF Platforms**: HackTheBox, TryHackMe, PicoCTF, OverTheWire
+- 🏁 **CTF Platforms**: HackTheBox, TryHackMe(Rank 46180 Top 3%), PicoCTF, OverTheWire
