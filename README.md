@@ -17,20 +17,26 @@
 ---
 
 ## 📊 GitHub Stats  
-<div style="display: flex; justify-content: center; align-items: stretch; flex-wrap: wrap; gap: 12px; max-width: 700px; margin: 0 auto;">
+<div style="display: flex; flex-wrap: nowrap; width: 100%;">
 
-  <div style="flex: 1 1 330px; background-color: #0f1117; border: 1px solid #555; border-radius: 6px; padding: 12px; display: flex; align-items: center; justify-content: center;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Saudadeeee&show_icons=true&theme=radical&count_private=true&hide_rank=false"
-      style="width: 100%; max-height: 170px; object-fit: contain;"
-    />
+  <!-- Left: GitHub stats -->
+  <div style="width: 50%; box-sizing: border-box; padding: 8px;">
+    <div style="height: 200px; border: 1px solid #555; border-radius: 6px; background-color: #0f1117; display: flex; align-items: center; justify-content: center; padding: 8px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Saudadeeee&show_icons=true&theme=radical&count_private=true&hide_rank=false"
+        style="max-width: 100%; max-height: 100%; object-fit: contain;"
+      />
+    </div>
   </div>
 
-  <div style="flex: 1 1 330px; background-color: #0f1117; border: 1px solid #555; border-radius: 6px; padding: 12px; display: flex; align-items: center; justify-content: center;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saudadeeee&layout=compact&theme=radical&hide=html,css,scss"
-      style="width: 100%; max-height: 170px; object-fit: contain;"
-    />
+  <!-- Right: Top languages -->
+  <div style="width: 50%; box-sizing: border-box; padding: 8px;">
+    <div style="height: 200px; border: 1px solid #555; border-radius: 6px; background-color: #0f1117; display: flex; align-items: center; justify-content: center; padding: 8px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saudadeeee&layout=compact&theme=radical&hide=html,css,scss"
+        style="max-width: 100%; max-height: 100%; object-fit: contain;"
+      />
+    </div>
   </div>
 
 </div>
