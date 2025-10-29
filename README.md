@@ -16,7 +16,8 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats 
+
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 8px;">
 
   <div style="flex: 0 0 auto;">
@@ -34,6 +35,7 @@
   </div>
 
 </div>
+
 ---
 
 ## 🛠️ Tech Stack
