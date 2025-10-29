@@ -17,21 +17,19 @@
 ---
 
 ## 📊 GitHub Stats  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: stretch; flex-wrap: wrap; gap: 12px; max-width: 900px; margin: 0 auto;">
 
-  <!-- Left card -->
-  <div style="flex: 1 1 400px; min-width: 320px; max-width: 600px; border: 1px solid #555; border-radius: 6px; padding: 16px; background-color: #0f1117; color: #fff; display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="flex: 1 1 420px; background-color: #0f1117; border: 1px solid #555; border-radius: 6px; padding: 12px; display: flex;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=Saudadeeee&show_icons=true&theme=radical&count_private=true&hide_rank=false"
-      style="width: 100%; height: 100%; object-fit: cover;"
+      style="width: 100%; height: 100%; object-fit: contain;"
     />
   </div>
 
-  <!-- Right card -->
-  <div style="flex: 1 1 300px; min-width: 320px; max-width: 400px; border: 1px solid #555; border-radius: 6px; padding: 16px; background-color: #0f1117; color: #fff; display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="flex: 1 1 420px; background-color: #0f1117; border: 1px solid #555; border-radius: 6px; padding: 12px; display: flex;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saudadeeee&layout=compact&theme=radical&hide=html,css,scss"
-      style="width: 100%; height: 100%; object-fit: cover;"
+      style="width: 100%; height: 100%; object-fit: contain;"
     />
   </div>
 
