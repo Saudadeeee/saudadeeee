@@ -17,11 +17,9 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saudadeeee&show_icons=true&theme=radical&count_private=true" height="180px" />
-</p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saudadeeee&layout=compact&theme=radical&hide=html,css,scss" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saudadeeee&layout=compact&theme=radical&hide=html,css,scss" height="180px" />
 </p>
 
 
