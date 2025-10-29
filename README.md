@@ -18,7 +18,7 @@
 
 ## 📊 GitHub Stats 
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 12px;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 0px;">
 
   <!-- Stats card -->
   <div style="flex: 0 0 auto;">
