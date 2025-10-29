@@ -17,10 +17,10 @@
 ---
 
 ## 📊 GitHub Stats  
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 12px; width: 100%;">
 
   <!-- Left card -->
-  <div style="flex: 0 0 48%; box-sizing: border-box;">
+  <div style="flex: 0 0 350px; max-width: 350px;">
     <div style="height: 200px; border: 1px solid #555; border-radius: 6px; background-color: #0f1117; display: flex; align-items: center; justify-content: center; padding: 8px;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=Saudadeeee&show_icons=true&theme=radical&count_private=true&hide_rank=false"
@@ -30,7 +30,7 @@
   </div>
 
   <!-- Right card -->
-  <div style="flex: 0 0 48%; box-sizing: border-box;">
+  <div style="flex: 0 0 350px; max-width: 350px;">
     <div style="height: 200px; border: 1px solid #555; border-radius: 6px; background-color: #0f1117; display: flex; align-items: center; justify-content: center; padding: 8px;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saudadeeee&layout=compact&theme=radical&hide=html,css,scss"
