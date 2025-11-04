@@ -7,12 +7,12 @@
 
 ---
 
-## 😶‍🌫️ About Me  
-- 🎓 I'm currently studying **Smart Embedded Systems and IoT** at **Hanoi University of Science & Technology (HUST)**.  
-- 🔐 Passionate about **Cybersecurity**, especially **Web Application Penetration Testing**.  
-- 🧠 Interested in exploring topics like  **Offensive Security**, and **Capture The Flag (CTF)** challenges.  
-- 🛠️ Constantly experimenting and building new projects to sharpen my skills.  
-- ✍ I plan to write **CTF Writeups** and making lab about **Web Vulnerable** in the near future.  
+##  About Me  
+-  I'm currently studying **Smart Embedded Systems and IoT** at **Hanoi University of Science & Technology (HUST)**.  
+-  Passionate about **Cybersecurity**, especially **Web Application Penetration Testing**.  
+-  Interested in exploring topics like  **Offensive Security**, and **Capture The Flag (CTF)** challenges.  
+-  Constantly experimenting and building new projects to sharpen my skills.  
+-  I plan to write **CTF Writeups** and making lab about **Web Vulnerable** in the near future.  
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 <p align="center">
