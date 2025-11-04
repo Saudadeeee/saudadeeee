@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Hi there, I'm N4nkh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+  Hi there, I'm N4nkh!
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=CTF+Player+%7C+Web+Exploitation;Web+Pentest+%7C+Red+Team" />
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 GitHub Stats 
+##  GitHub Stats 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saudadeeee&show_icons=true&theme=radical&count_private=true&hide_rank=false" height="180" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 📈 CTF & Security Focus Areas
-- 🌐 **Web Application Security**: SQL Injection, XSS, CSRF, Authentication Bypass
-- 🎯 **Exploit Development**: Custom payload creation and testing
-- 🏁 **CTF Platforms**: HackTheBox, TryHackMe(Rank 46180 Top 3%), PicoCTF, OverTheWire
+##  CTF & Security Focus Areas
+-  **Web Application Security**: SQL Injection, XSS, CSRF, Authentication Bypass
+-  **Exploit Development**: Custom payload creation and testing
+-  **CTF Platforms**: HackTheBox, TryHackMe(Rank 46180 Top 3%), PicoCTF, OverTheWire
