@@ -49,7 +49,7 @@
 
 ### Development Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vim" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
 ### Operating Systems
