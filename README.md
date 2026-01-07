@@ -16,16 +16,6 @@
 
 ---
 
-##  GitHub Stats 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saudadeeee&show_icons=true&theme=radical&count_private=true&hide_rank=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saudadeeee&layout=compact&theme=radical&hide=html,css,scss" height="180" />
-</div>
-
-
----
-
 ##  Tech Stack
 
 ### Programming Languages
