@@ -25,7 +25,7 @@
 
 ### Web Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,express,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,mysql,mongodb" />
 </p>
 
 ### Security & Penetration Testing Tools
